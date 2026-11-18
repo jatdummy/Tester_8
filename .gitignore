@@ -73,3 +73,18 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Machine-specific files (differ per computer)
+/.mcp.json
+*.slnx
+
+/[Aa]ssets/[Ii]mports/
+/[Aa]ssets/[Ii]mports.meta
+
+# 에셋 스토어에서 받은 외부 에셋
+/[Aa]ssets/Modern Resaturant - building and interior/
+/[Aa]ssets/Modern Resaturant - building and interior.meta
+/[Aa]ssets/DownloadCache/
+/[Aa]ssets/DownloadCache.meta
+/[Aa]ssets/Synty/
+/[Aa]ssets/Synty.meta
